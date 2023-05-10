@@ -1,0 +1,28 @@
+.body{
+  background-image: url("tm.jpg");
+  background-repeat: no-repeat;
+  width:100px;
+  height:100px;
+  
+}
+.ind{
+  background-image: url("ig.jpeg");
+  width: initial/ 2px;
+}
+.y{
+  display: flex;
+  justify-content: center;
+}
+.kl{
+  background-image:url("c.jpg")
+}
+.x :hover{
+  opacity: 0.7;
+}
+.hi{
+  display:flex;
+  justify-content:start;
+}
+
+
+
